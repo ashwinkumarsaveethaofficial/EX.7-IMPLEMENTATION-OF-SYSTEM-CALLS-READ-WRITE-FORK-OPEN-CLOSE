@@ -55,7 +55,6 @@ int write(int fd, char *buf, int size);
 fd: file descripter buf: buffer to write data to cnt: length of buffer
 
 *File descriptor is integer that uniquely identifies an open file of the process.
-
 ## ALGORITHM:
 
 1.Start the program.
@@ -104,7 +103,6 @@ return 0;
 
 ## OUTPUT:
 ![image](https://github.com/praveensaveetha/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/119560117/b2f96d96-4228-4852-a5ec-2afb2922420e)
-
 
 ## RESULT:
 Thus, open, read, write, close , create , fork() system calls implemented successfully using c program.
